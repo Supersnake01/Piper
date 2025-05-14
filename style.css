@@ -1,0 +1,231 @@
+body, html {
+	font-family: Arial, sans-serif;
+}
+.content{
+	margin: 0 auto;
+	padding: 0 55px;
+	width: 1219px;
+}
+header{
+	position: fixed;
+	background: #40a169;
+	top: 0;
+	width: 1219px;
+	height: 84px;
+	margin: 0 auto;
+	padding: 0;
+	z-index: 100;
+	box-shadow: 0 2px 5px white;
+}
+.logo{
+	float: left;
+	margin: 20px 0 19px 55px;
+}
+header nav{
+	float: right;
+}
+header nav ul{
+	margin: 0px 54px 27px 0px;
+	padding: 0;
+	list-style: none;
+}
+header nav ul li{
+	display: inline-block;
+	margin-left: 8px;
+}
+header nav ul li a, header nav ul li p{
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	font-weight: 500;
+	font-size: 24px;
+}
+.text-block{
+	padding: 165.5px 0;
+	margin-top: 84px;
+	margin-bottom: 0px;
+	background: url("image (9).png");
+	width = 100%;
+
+}
+.text-block h1{
+	font-size: 72px;
+	font-weight: 500;
+	padding: 0;
+	margin: 0;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+.The_Problem_text{
+	margin: 0;
+	width: 100%;
+	background: white;
+}
+.The_Problem_header{
+	padding: 5.5px 0;
+	margin: 48px auto 16px;
+	width: 100%;
+}
+.The_Problem_header h1{
+	margin: 0;
+	font-weight: 500;
+	text-align: center;
+	font-size: 64px;
+	color: #007765;
+}
+.The_Problem_par{
+	margin: 0 54px 92px 55px;
+	padding: 0;
+	background: white;
+}
+.first_line{
+	margin-top: 0;
+}
+.The_Problem_par p{
+	font-size: 32px;
+	text-decoration: none;
+	color: black;
+	font-weight: 400;
+}
+.The_Problem_par span{
+	font-weight: 700;
+}
+.text-block2-par{
+	padding: 128px 163px 127px 163px;
+	max-width: 1219px;
+	background: url("image (8).png");
+	width: 893px;
+	height: 228px;
+	text-align: center;
+	text-decoration: none;
+	font-style: italic;
+	color: white;
+	font-size: 48px;
+	margin: 0;
+	font-weight: 500;
+}
+.Introducing{
+	margin: 0;
+	padding: 0;
+}
+.Introducing_heading{
+	margin-top: 48px;
+	margin-bottom: 16px;
+	padding: 5.5px 0;
+	width: 100%;
+	text-align: center;
+}
+.Introducing_heading h1{
+	margin: 0;
+	font-weight: 500;
+	text-decoration: none;
+	font-size: 64px;
+	color: #007765;
+}
+.Introducing_text_logo{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+.Introducing_text_logo p{
+	float: right;
+	font-weight: 400;
+	margin: 0 0 40px 0;
+	padding: 0;
+	height: 110px;
+	width: 930px;
+	font-size: 32px;
+	text-decoration: none;
+	color: black;
+}
+.Introducing_text_logo img{
+	float: left;
+	padding: 0 48px 0 55px;
+	margin: 0 0 35px 0;
+	height: 115px;
+	width: 115px;
+	margin: 0;
+}
+.Introducing_text{
+	margin: 0 54px 0 55px;
+	padding: 0;
+	background: white;
+}
+.Introducing_text p{
+	font-weight: 400;
+	font-size: 32px;
+	text-decoration: none;
+	color: black;
+}
+.The_team{
+	margin: 0;
+	padding: 0 0 94px 0;
+}
+.The_team_header{
+	padding: 5.5px 0;
+	text-align: center;
+	width: 100%;
+	margin-top: 48px;
+	margin-bottom: 32px;
+}
+.The_team_header h1{
+	font-size: 64px;
+	font-weight: 500;
+	color: #007765;
+	text-decoration: none;
+	margin: 0;
+}
+.Members{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.member{
+	display: inline-block;
+	text-align: center;
+	height: 283px;
+	width: 350px;
+}
+.member h3{
+	font-weight: 700;
+	font-size: 24px;
+	color: #007765;
+	text-decoration: none;
+	margin: 0;
+	padding: 2.5px 0;
+}
+.member p{
+	font-weight: 400;
+	font-size: 18px;
+	font-style: italic;
+	text-decoration: none;
+	margin: 0;
+	padding: 2px 0;
+}
+.member img{
+	width: 168px;
+	height: 168px;
+}
+#mem1, #mem2 {
+	margin: 0 30px 30px 0;
+}
+#mem3{
+	margin: 0 0 30px 0;
+}
+#mem4, #mem5{
+	margin: 0 30px 0 0;
+}
+#mem6{
+	margin: 0;
+}
+.last_block{
+	background: #333333;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 400;
+	padding: 48px 339px 64px 340px;
+	margin: 0;
+	color: white;
+	text-decoration: none;
+}
